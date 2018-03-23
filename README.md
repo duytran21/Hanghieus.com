@@ -1,0 +1,2 @@
+# MageSpider
+Magento Store
